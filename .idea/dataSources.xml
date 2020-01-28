@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="jdbc:mysql://eu-cdbr-west-02.cleardb.net/heroku_b372e31939a246d?reconnect=true:3306/heroku_b372e31939a246d" uuid="f14d1bce-5e49-4842-8d3a-cd3faa7850c7">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://eu-cdbr-west-02.cleardb.net/heroku_b372e31939a246d?reconnect=true:3306/heroku_b372e31939a246d</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="da2sstjso3raqk@ec2-54-246-100-246.eu-west-1.compute.amazonaws.com" uuid="e2949004-876c-48d0-84a6-5d8d456ece6a">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://ec2-54-246-100-246.eu-west-1.compute.amazonaws.com:5432/da2sstjso3raqk</jdbc-url>
+    </data-source>
+  </component>
+</project>
